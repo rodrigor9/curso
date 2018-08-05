@@ -1,0 +1,49 @@
+.navbar, .logoDiv{
+    background-color: darkgreen;
+    width: 100vw;
+    
+}
+.btn{
+    color: lightgray;
+}
+.logo{
+    padding-top: 3px;
+    height: 80px;
+    width: 150px;
+    margin-right: 50px;
+}
+.navDiv{
+    padding-left: 0px !important; 
+    width: 100%;
+    color: aliceblue;
+}
+.carousel-item{
+    height: 70vh;
+}
+
+.card{
+    margin: 30px 0 50px 30px;
+    display: inline;
+}
+
+.face, .tw, .insta{
+    background-color: darkgray;
+    width: 30px;
+    height: auto;
+    float: left;
+    display: inline;
+    margin: 2px 2px 2px 2px;
+}
+
+.face:hover, .tw:hover, .insta:hover{
+    background-color: dimgray;
+    width: 35px;
+}
+
+.footer{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.nav{
+    color: aliceblue;
+}

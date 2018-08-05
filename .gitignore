@@ -1,0 +1,5 @@
+/config/constants.php
+*.DS_Store
+nbproject/
+/vendor/*
+/archivos/*
